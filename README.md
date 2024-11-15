@@ -1,4 +1,4 @@
-🚀 Introducing My Latest Project: A Quiz App Built with TypeScript! 🎉
+🚀 Introducing My Project: A Quiz App Built with TypeScript! 🎉
 
 I’m thrilled to share the culmination of my recent work—a dynamic and interactive quiz application crafted using TypeScript! This project has been a fantastic journey, allowing me to dive deep into TypeScript’s capabilities and enhance my skills in modern web development.
 
@@ -21,6 +21,3 @@ JavaScript​: Integrated for smooth interactivity and enhanced functionality.
 Why TypeScript?
 
 TypeScript's ability to catch errors at compile time and its support for modern JavaScript features made it the perfect choice for building this application. It not only improved my development workflow but also ensured that the final product is reliable and efficient.
-
-Next Steps:
-I’m eager to continue refining this app and adding new features. The goal is to make it one of the best quiz apps out there, with a focus on providing a top-notch user experience. I’m also exploring ways to incorporate more advanced features, such as adaptive learning paths and analytics.
